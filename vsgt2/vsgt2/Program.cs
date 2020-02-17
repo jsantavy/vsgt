@@ -10,7 +10,7 @@ namespace vsgt2
     {
         static void Main(string[] args)
         {
-            //ttt
+            //ttt 98998
             Console.WriteLine("vsgt");
         }
     }
