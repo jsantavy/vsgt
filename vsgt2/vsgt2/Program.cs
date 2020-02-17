@@ -12,6 +12,7 @@ namespace vsgt2
         {
             //ttt 98998
             Console.WriteLine("vsgt");
+            Console.WriteLine("vsgt2");
         }
     }
 }
